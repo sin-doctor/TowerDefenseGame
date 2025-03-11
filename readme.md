@@ -70,7 +70,7 @@ java TowerDefenseGame
 ---
 
 ## 개발 환경
-- **언어**: Java 21+
+- **언어**: Java 23+
 - **GUI 라이브러리**: Swing
 - **빌드 도구**: 없음 (단일 `.java` 파일 실행)
 
